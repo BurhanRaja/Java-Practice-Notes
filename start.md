@@ -25,34 +25,34 @@
 
 #### 1. Stack
 
-*           *
+    *           *
 
-*           *
+    *           *
 
-*           *
+    *           *
 
-*           *
+    *           *
 
-*           *
+    *           *
 
-*           *
+    *           *
 
-*           *
+    *           *
 
-*************
+    *************
 
 
 #### 2. Heap
 
-       ********
+          ********
 
-      *        *
+         *        *
 
-     *          *
+        *          *
 
-    *            *
+       *            *
 
-   *              *
+      *              *
 
 
 ### For example:-
@@ -64,19 +64,19 @@ a is called reference variable
 10 is called object
 
 
-*           *                   ******
+    *           *                   ******
 
-*           *                  *      *
+    *           *                  *      *
 
-*           *                 *        *
+    *           *                 *        *
 
-*           *                *          *
+    *           *                *          *
 
-*     a-------------------------> 10     *
+    *     a-------------------------> 10     *
 
-*           *              *              *
+    *           *              *              *
 
-*           *             *                *
+    *           *             *                *
 
 *************
 
@@ -117,5 +117,5 @@ d ----------|`
 
 then
 
-10 will be collected in garbage collection and removed from the memory
+git 10 will be collected in garbage collection and removed from the memory
 
