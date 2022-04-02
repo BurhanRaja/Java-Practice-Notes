@@ -78,7 +78,7 @@ a is called reference variable
 
     *           *             *                *
 
-*************
+    *************
 
 
 a is stored in stack and 10 is stored in heap
@@ -89,31 +89,34 @@ Every object has its own address in the memory or RAM.
 
 
 
-### Object Oriented
+## Object Oriented
 
 If an object have many reference variable:-
 
-` a --------------------> 10
-  b ----------|
-  c ----------|
-  d ----------|`
+``` 
+    a --------------------> 10
+    b ----------|
+    c ----------|
+    d ----------|
+```
 
 Here a, b, c, d is all points towards 10.
 
 If the object is changed to 11 than all the object of the variables will point towards 11.
 
 
-### Garbage Collection 
-
+## Garbage Collection 
 
 Take the above example
 
 If 
 
-`a --------------------> 11
-b ----------|
-c ----------|
-d ----------|`
+```
+   a --------------------> 11
+   b ----------|
+   c ----------|
+   d ----------|
+```
 
 then
 
