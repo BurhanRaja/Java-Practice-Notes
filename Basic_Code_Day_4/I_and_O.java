@@ -1,3 +1,4 @@
+package Basic_Code_Day_4;
 import java.util.Scanner;
 
 public class I_and_O {
