@@ -1,4 +1,4 @@
-package Basic_Code_Day_4;
+package Introduction_to_Java_code.src.com.Burhan;
 
 public class Primitive_Datatype {
    public static void main(String[] args) {
@@ -10,6 +10,13 @@ public class Primitive_Datatype {
     boolean check = true; // or false
     double largeDecimalnumbers = 4931423.549412164;
     long largeInteger = 1684651826412L;
+
+    System.out.println(a);
+    System.out.println(letter);
+    System.out.println(decimal);
+    System.out.println(check);
+    System.out.println(largeDecimalnumbers);
+    System.out.println(largeInteger);
 
     }
 }

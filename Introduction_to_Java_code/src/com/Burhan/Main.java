@@ -1,4 +1,4 @@
-package Basic_Code_Day_4;
+package Introduction_to_Java_code.src.com.Burhan;
 
 public class Main{
     public static void main(String[] args){
