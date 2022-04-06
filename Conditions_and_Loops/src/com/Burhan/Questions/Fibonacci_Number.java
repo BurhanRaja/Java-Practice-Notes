@@ -1,4 +1,4 @@
-package com.Burhan;
+package com.Burhan.Questions;
 
 import java.util.Scanner;
 
