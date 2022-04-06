@@ -5,6 +5,10 @@ import java.util.Scanner;
 public class For_Loop {
     public static void main(String[] args) {
         
+        // Use for loop when you know the total prints you have to make.
+        // For example in below case it is 5.
+
+
         // Print number 1 to 5
         // for (int i = 1; i <= 5; i++) {
         //     System.out.println(i);
