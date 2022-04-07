@@ -2,7 +2,7 @@ package com.Burhan;
 
 import java.util.Scanner;
 
-public class HCF_LCM {
+public class Fourth_Question {
     public static void main(String[] args) {
         
         Scanner inp = new Scanner(System.in);
