@@ -16,13 +16,14 @@ public class Fibonacci_Number {
         int b = 1;
         int count = 2;
 
-        // To print the nth number 
+        // // To print the nth number 
         while (count <= n){
             int temp = b;
             b = b + a;
             a = temp;
             count++;
         }
+
         System.out.println(b);
 
         // To print the whole fibonacci series
