@@ -31,8 +31,14 @@ public class Scoping {
 
         // possible
         System.out.println(num);
-        
+
         // This is called scope.
         // The scope of a variable can be accessed only where they have initialized. 
     }
 }
+
+
+// Whatever is initialized outside the block can be used inside the block but,
+// Whatever is initialized inside the block cannot be used outside and can be initialized outside again.
+
+// This above sentences applies same in loop
