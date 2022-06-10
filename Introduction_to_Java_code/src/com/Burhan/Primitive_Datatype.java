@@ -24,3 +24,6 @@ public class Primitive_Datatype {
 // Primitive Data type means the type of value which cannot be further divided.
 
 // 'String' is not a primitive Data type
+
+// Primitive Datatyepes are stored in Stack Memory in java
+// Objects are stored in heap memory.
