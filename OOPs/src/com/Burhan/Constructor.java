@@ -26,7 +26,24 @@ public class Constructor {
 
         Student random = new Student();
         System.out.println(random.name);
+
+        // using final, you cannot change the variable object
+        // final int bonus = 4;
+        // bonus = 5; // cannot change
+
+
+        final A Burhan = new A();
+        Burhan.name="Burhan Bro";
+
+        // But you cannot change or create new object with same instance variabel
+        // A Burhan = new A(); // Not possible
+
     }
+}
+
+class A {
+    final int num = 10;
+    String name;
 }
 
 class Student {
