@@ -1,5 +1,3 @@
-package com.Burhan;
-
 public class Methods_in_class {
     public static void main(String[] args) {
         Pen pen1 = new Pen("black", "ballpoint", 100);

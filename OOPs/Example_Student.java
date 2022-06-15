@@ -1,5 +1,3 @@
-package com.Burhan;
-
 public class Example_Student {
     public static void main(String[] args) {
         // Student std1 = new Student();
